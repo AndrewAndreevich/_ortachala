@@ -8,5 +8,5 @@ nav_order: 6
 ---
 
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
+<iframe src="https://my-3-d-room-okym5azi8-houssemlachtar.vercel.app/" height="200" width="300" title="Iframe Example"></iframe>
 Organize your courses by years, topics, or universities, however you like!
